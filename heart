@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>global styles</title>
+<style>
+      body {background-image: url(heart.jpg);
+            background-repeat: repeat-y;
+            background-position: top}
+
+</style>
+</head>
+</html>
+ 
