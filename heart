@@ -1,23 +1,28 @@
 <!doctype html>
 <html lang="en">
-  <head>
+  <head >
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-<style>
-    .test{background: black;
-          color:blueviolet}
-    .test2{border: 20 px}
-</style>
-   
-  </head>
-  <body>
-      <p class="test">class</p>
-      <p class="test2">class</p>
-   
+
+     
+  </head >
+  <body >
+  <h1>ГОРОСКОП</h1>
+  </style>
+   <h3>Овен</h3>
+   <h4>21 марта-20 апреля<h4>
+<img src="./oven_znak.jpg" style="width: 300px; height: 300px; border-radius: 25px;float: right;" alt="photo 1" title="photo 1">
+<h5><p>Творчески одаренные, упорные, когда задеты за живое, сильные духом - это прекрасные спортсмены-спринтеры, полководцы, спасатели, репортеры в театре военных действий, исследователи и путешественники. Могут выбрать своей профессией служение закону и поддержание порядка, или же находятся по другую сторону правопорядка. В любом случае, выбор зависит от личного гороскопа. Представители первого знака стихии Огня движимы высокими идеалами, возвышенными чувствами, в том числе гармонией и красотой. Но часто грубость напора и упрямство ломают хрупкую гармонию, отправляя Овна на поиски новой чистой красоты.</h5></p>
+
+<h3>Телец</h3>
+   <h4>21 апреля-21 мая<h4>
+   <h5><p>Почти всегда производит приятное впечатление, обаятелен, но в душе скептик и мизантроп, имеет крепкие нервы, хорошее чувство юмора, любит подтрунивать над собой. Ценят ощущение безопасности, любят гарантии, заболевают в не комфортной обстановке. Обладает даром эмпатии, аккумулирует силу природы, может стать медиумом, психоаналитиком или целителем, если разовьет в себе чувство сопереживания. Нуждается в сексуальном равновесии, ищет партнера, который удовлетворит чувственные ожидания. Не любит изменений, в семейных проблемах удивительно терпелив.
+
+Подробнее: https://horoscopes.rambler.ru/taurus/description/?utm_content=horoscopes&utm_medium=read_more&utm_source=copylink</h5></p>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
